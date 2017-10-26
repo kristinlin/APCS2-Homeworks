@@ -1,4 +1,4 @@
 # APCS2-Homeworks
-to backup my local files
+Some homeworks from APCS2 that were interesting.
 
-(only starting from HW#32)
+
